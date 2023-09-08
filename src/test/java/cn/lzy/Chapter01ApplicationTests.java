@@ -118,6 +118,7 @@ public class Chapter01ApplicationTests {
     cn.lzy.mybatis.redis.Person personResult = repository.save(personRedis);
     System.out.println(personResult);
     }
+
 }
 
 
